@@ -21,3 +21,4 @@
 * **Assessments & Solutions**
   * [Practice Exercises](year-11-textbook-exercises-and-exam-practice.md)
   * [Marking Keys](year-11-textbook-solutions-and-marking-keys.md)
+  * [Quizzes](year-11-textbook-interactive-quizzes.md)
